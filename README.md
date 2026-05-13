@@ -80,4 +80,7 @@ Tauqeer Aabid
 Aspiring Data Analyst | Power BI Developer
 
 📊 Dashboard Preview / screenshort 
+https://github.com/tauqeeraabid94/The-Resin-Gallery-Dashboard/blob/main/The%20resin%20Gallery%20.png
+
+
 
